@@ -30,3 +30,4 @@ console.log(typeof valueinNumber)//number
 //1=>true; 0=>false
 //""=>false
 //"abhi"=>true
+
